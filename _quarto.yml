@@ -1,13 +1,12 @@
 project:
   type: website
-  output-dir: docs
 
 website:
-  title: "demosite"
+  title: "Patricio Said"
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: Home2
       - about.qmd
 
 format:
